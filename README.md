@@ -1,4 +1,4 @@
-# comfyui_toriigate_T8
+# comfyui_toriigate_TOM
 
 这是 ToriiGate-0.5 的 ComfyUI 自定义节点 T8 版本。这个版本保留原有
 Transformers 节点，同时新增了 `llama-cpp-python` 本地 GGUF 直连模式：
