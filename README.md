@@ -20,16 +20,6 @@ Transformers 节点，同时新增了 `llama-cpp-python` 本地 GGUF 直连模�
 - 仍保留外部 `llama-server` 的 OpenAI 兼容 API 模式，可切换为 `api_server`。
 - 修复文本 API 节点中 `actual_temperature` 未定义的问题。
 
-## 安装
-
-把仓库克隆到 `ComfyUI/custom_nodes`：
-
-```bash
-cd ComfyUI/custom_nodes
-git clone https://github.com/T8mars/comfyui_toriigate_T8.git
-```
-
-安装或更新后重启 ComfyUI。
 
 ## 模型放置位置
 
